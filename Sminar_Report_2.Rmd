@@ -1,0 +1,31 @@
+---
+title: "Seminar Report 2"
+author: "Eric Taleghani"
+date: "November 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Eric Taleghani
+Ali D. Guler, Assistant Professor of Biology at the University of Virginia
+11/7/2018
+Food, Time, and Dopamine: How Rewarding Snacks Hijack Your Brain
+
+
+In this seminar, Ali Guler, PhD, of the UVA Biology Department, discussed how dopamine pathways (specifically medicated by snacking) affects the circadian rhythm of mice. Mice are nocturnal, and their activity at night can be measured based on how much they run/move and eat. The power of circadian rhythm and the light dark cycle is exemplified by the fact that when mice were moved from America to Amsterdam, they adapted to the new light-dark cycle in only a few days. In this same set of mice, the ones with ablated photosensitive retinal cells were unable to adapt to the new circadian cycle. These retinal ganglion cells are attached to the Suprachiasmatic Nucleus (SCN), which is plays a significant role in controlling the circadian rhythm. SCN activity is partly controlled by dopamine, indicating a connection between the circadian rhythm and dopamine mediated pathways. 
+	
+In these experiments, mice were injected with capsaicin (a chemical in spicy foods), increasing dopamine release and subsequently increasing SCN activity. The increased SCN activity then causes an increase in Drd1 expression (encoding a dopamine receptor), a cycle that mimics the phase response of mice to light. This experiment found that activating this pathway had the same effect as changing the light-dark cycle. Follow-up experiments showed that Drd1 was essential to causing the shift in activity cycle, since its absence resulted in much longer time required for the cycle shift to occur. 
+
+The second half of the seminar shifted the focus on how general snacking impacts dopamine release, playing a huge part in the obesity epidemic in the U.S. The two motivations for eating are hedonic overeating and homeostatic dysregulation; nowadays, people rarely eat due to homeostatic dysregulation. Experiments found that when Drd1 was knocked out in mice, they became resistant to diet-induced obesity. This is due to the fact that eating no longer causes the same "reward" feeling via dopamine release. Therefore, the mice only ate when the needed the calories. Introducing a Drd1 agonist also decreased SCN output, decreasing obesity. Conversely, when Drd1 expression ad SCN activity were increased, hedonic overeating occurs more frequently with obesity developing over time.  
+
+These experiments illustrate a potential pathway in which the amount of food animals eat can be reduced, therefore decreasing the prevalence of obesity. This mechanism has been successful in reducing obesity in clinical trials, but it is also linked to significant negative outcomes such as depression and suicidal thoughts. The potential is there, but more work needs to be done in order to minimize these negative side effects and develop an effective treatment. 
+
+Questions:
+Does blocking Drd1 inhibit the dopamine release of events other than eating (love/sex, gambling, other reward pathways)?
+Do you foresee any possibility in which altering dopamine release/levels/receptors DOESN'T result in mental health impairments?
+
+
+
